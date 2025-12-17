@@ -1,6 +1,6 @@
 # ShellGuard AI 🛡️
 
-> A Secure, Local-First AI Terminal Copilot powered by Microsoft Phi-3 & Ollama
+> A Secure, Local AI Terminal Copilot powered by Phi-3 & Ollama
 
 ShellGuard AI is a lightweight Python tool that allows you to generate and execute Linux commands using natural language. It runs entirely on your local machine for maximum privacy and features a safety-first architecture.
 
